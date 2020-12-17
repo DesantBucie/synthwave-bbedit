@@ -1,0 +1,1 @@
+cp ~/Library/Application\ Support/BBEdit/Color\ Schemes/SynthWave.bbColorScheme `pwd`
