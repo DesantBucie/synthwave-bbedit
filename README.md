@@ -17,4 +17,6 @@ If you see a field of improvement, tell me on issues or pull you changes.
 
 Simply copy to `~/Library/Applications\ Support/BBEdit/Color\ Schemes/` or use install.sh
 
-Then open preferences (,+cmd) and select theme. ![Theme](.github/theme.png)
+Then open preferences (,+cmd) and select theme. 
+
+![Theme](.github/theme.png)
