@@ -12,3 +12,9 @@ this cannot have so many effects as i.e. BBEdit treats function name as plain te
 
 I use the update.sh to update theme to git repository whenever I make a change,
 If you see a field of improvement, tell me on issues or pull you changes.
+
+## Instalation
+
+Simply copy to `~/Library/Applications\ Support/BBEdit/Color\ Schemes/` or use install.sh
+
+Then open preferences (,+cmd) and select theme. ![Theme](.github/theme.png)
