@@ -15,7 +15,7 @@ If you see a field of improvement, tell me on issues or pull you changes.
 
 ## Instalation
 
-Simply copy to `~/Library/Applications\ Support/BBEdit/Color\ Schemes/` or use install.sh
+Simply copy .bbColorScheme to `~/Library/Applications\ Support/BBEdit/Color\ Schemes/` or use .dmg
 
 Then open preferences (,+cmd) and select theme. 
 

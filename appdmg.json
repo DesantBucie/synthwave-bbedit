@@ -1,0 +1,8 @@
+{
+  "title": "SynthWave Theme for BBEdit",
+  "background-color": "#cccccc",
+  "contents": [
+    { "x": 448, "y": 200, "type": "file", "path": "Color Schemes" },
+    { "x": 192, "y": 200, "type": "file", "path": "SynthWave.bbColorScheme" }
+  ]
+}
