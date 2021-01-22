@@ -15,7 +15,7 @@ If you see a field of improvement, tell me on issues or pull you changes.
 
 ## Instalation
 
-Simply copy .bbColorScheme to `~/Library/Applications\ Support/BBEdit/Color\ Schemes/` or use .dmg
+Simply copy .bbColorScheme to `~/Library/Applications\ Support/BBEdit/Color\ Schemes/` or [use .dmg](https://github.com/DesantBucie/synthwave-bbedit/releases)
 
 Then open preferences (,+cmd) and select theme. 
 
