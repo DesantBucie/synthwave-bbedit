@@ -8,11 +8,6 @@ that you probably never lived. Not shiny, not glossy, just cool looking, neon li
 Although idea is based on [Synthwave'84](https://github.com/robb0wen/synthwave-vscode)
 this cannot have so many effects as i.e. BBEdit treats function name as plain text.
 
-## The update.sh
-
-I use the update.sh to update theme to git repository whenever I make a change,
-If you see a field of improvement, tell me on issues or pull you changes.
-
 ## Instalation
 
 Simply copy .bbColorScheme to `~/Library/Applications\ Support/BBEdit/Color\ Schemes/`
