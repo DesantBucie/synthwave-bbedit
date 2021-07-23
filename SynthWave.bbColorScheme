@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BackgroundColor</key>
-	<string>hsla(0.743, 0.426, 0.184, 1.000)</string>
+	<string>hsla(0.703, 0.315, 0.202, 1.000)</string>
 	<key>DifferenceHighlightColor</key>
 	<string>hsla(0.60, 0.28, 0.25, 1.00)</string>
 	<key>InsertionPointLineHighlightColor</key>
@@ -35,9 +35,9 @@
 	<key>com.barebones.bblm.TeX.verbatim</key>
 	<string>hsla(0.600, 0.200, 0.540, 1.000)</string>
 	<key>com.barebones.bblm.code</key>
-	<string>hsla(0.500, 0.003, 1.000, 1.000)</string>
+	<string>hsla(0.625, 0.014, 0.886, 1.000)</string>
 	<key>com.barebones.bblm.comment</key>
-	<string>hsla(0.601, 0.204, 0.541, 1.000)</string>
+	<string>hsla(0.661, 0.342, 0.725, 1.000)</string>
 	<key>com.barebones.bblm.css.color-spec</key>
 	<string>hsla(0.026, 1.000, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.css.custom-property</key>
@@ -47,7 +47,7 @@
 	<key>com.barebones.bblm.css.vendor-property</key>
 	<string>hsla(0.460, 0.340, 0.910, 1.000)</string>
 	<key>com.barebones.bblm.file-include</key>
-	<string>hsla(0.073, 0.900, 0.980, 1.000)</string>
+	<string>hsla(0.088, 0.987, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.grep.charclass</key>
 	<string>hsla(0.720, 0.460, 0.970, 1.000)</string>
 	<key>com.barebones.bblm.grep.escape-sequence</key>
@@ -75,7 +75,7 @@
 	<key>com.barebones.bblm.indexed-symbol</key>
 	<string>hsla(0.270, 0.540, 0.850, 1.000)</string>
 	<key>com.barebones.bblm.keyword</key>
-	<string>hsla(0.134, 0.623, 0.966, 1.000)</string>
+	<string>hsla(0.142, 0.951, 0.947, 1.000)</string>
 	<key>com.barebones.bblm.keyword-argument-name</key>
 	<string>hsla(0.430, 0.360, 0.720, 1.000)</string>
 	<key>com.barebones.bblm.markdown.Emph</key>
@@ -107,7 +107,7 @@
 	<key>com.barebones.bblm.markdown.QuotedContent</key>
 	<string>hsla(0.000, 0.000, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.number</key>
-	<string>hsla(0.721, 0.457, 0.970, 1.000)</string>
+	<string>hsla(0.009, 0.527, 0.884, 1.000)</string>
 	<key>com.barebones.bblm.perl.generic-string</key>
 	<string>hsla(0.041, 0.660, 0.990, 1.000)</string>
 	<key>com.barebones.bblm.perl.outer-pod</key>
@@ -115,9 +115,9 @@
 	<key>com.barebones.bblm.perl.pre-generic-string</key>
 	<string>hsla(0.041, 0.660, 0.990, 1.000)</string>
 	<key>com.barebones.bblm.predefined-symbol</key>
-	<string>hsla(0.499, 1.000, 0.886, 1.000)</string>
+	<string>hsla(0.516, 0.757, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.preprocessor</key>
-	<string>hsla(0.073, 0.900, 0.980, 1.000)</string>
+	<string>hsla(0.447, 0.937, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.ruby.regexp</key>
 	<string>hsla(0.073, 0.900, 0.980, 1.000)</string>
 	<key>com.barebones.bblm.ruby.symbol</key>
@@ -131,7 +131,7 @@
 	<key>com.barebones.bblm.sgml-tag</key>
 	<string>hsla(0.452, 0.813, 0.821, 1.000)</string>
 	<key>com.barebones.bblm.string</key>
-	<string>hsla(0.073, 0.900, 0.980, 1.000)</string>
+	<string>hsla(0.882, 0.768, 0.918, 1.000)</string>
 	<key>com.barebones.bblm.syntax-error</key>
 	<string>hsla(1.000, 0.850, 0.850, 1.000)</string>
 	<key>com.barebones.bblm.variable</key>
